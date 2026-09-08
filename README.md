@@ -1,6 +1,12 @@
 # 💫 About Me:
-Im currently developing on ai's that can do many jobs, planning to create a completely startup with ai "people" <br>As you can see im working on FREELANCER.PY, that is a script that works as a freelancer, finding customers, building a preview of their website (if they dont have one) on images found online of that local business, and prints documentation I personally bring to their shop to propose the website "I made" for them.<br>I'd really like to have somebody that can prompt engineer so he could correct my bad prompts (because on FREELANCER.PY im prompting a model)
+Started as a solo freelancer, became a AI engineer and now a entrepreneur.
+Founder of Swiss Core Systems🇨🇭, on premise AI for international firms and banks.
 
+Sometimes still working part-time as a freelancer for friends and ethic, love to remind me where I come from!!
+
+Keep most of my projects private, api keys in .env dont even look for them, sometimes I just post fake ones for scrapers to try them and waste time😂😂
+
+Life's good.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-cola-8b88a936b) 
