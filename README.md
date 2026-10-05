@@ -2,9 +2,9 @@
 Started as a solo freelancer, became a AI engineer and now a entrepreneur.
 Founder of Swiss Core Systems🇨🇭, on premise AI for international firms and banks.
 
-Sometimes still working part-time as a freelancer for friends and ethic, love to remind me where I come from!!
+Sometimes still working part-time as a freelancer for friends and ethic, love to remind me where it all started!
 
-Keep most of my projects private, api keys in .env dont even look for them, sometimes I just post fake ones for scrapers to try them and waste time😂😂
+Keep most of my projects private, dont even look for api keys in .env , sometimes I just post fake ones for scrapers to try them and waste time😂😂
 
 Life's good.
 
